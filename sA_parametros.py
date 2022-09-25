@@ -15,3 +15,5 @@ ESCALADOS_INGAME = {"480:480": P480X480,
                     "1920:1080": P1920X1080,
                     "Editable": None}
 # [Deseado][Objetivo]
+#### ahhhh modifcar, usar fullScreen(), eso modifica el tamano, usar width() y height()
+### escalar los tamanos iniciales al fullscreen

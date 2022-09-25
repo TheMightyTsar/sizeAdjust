@@ -1,3 +1,7 @@
+
+
+# usar self.setMinimumSize() y self.setMaximumHeight()
+#         self.setMaximumWidth()
 from typing import Dict
 
 from sA_parametros import ESCALADOS_INGAME
@@ -11,3 +15,5 @@ def newSize(Resolution: str, NewResolution: str, widget):
                                    "height": None}
 
     return NewSize
+
+
