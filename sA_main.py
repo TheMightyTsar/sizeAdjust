@@ -14,6 +14,7 @@ def newSize(Resolution: str, NewResolution: str, widget):
     ActualSize: dict[str, None] = {"width": None,
                                    "height": None}
 
+
     return NewSize
 
 
