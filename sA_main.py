@@ -1,5 +1,3 @@
-
-
 # usar self.setMinimumSize() y self.setMaximumHeight()
 #         self.setMaximumWidth()
 from typing import Dict
@@ -13,8 +11,7 @@ def newSize(Resolution: str, NewResolution: str, widget):
                                 "height": None}
     ActualSize: dict[str, None] = {"width": None,
                                    "height": None}
-
-
     return NewSize
 
 
+# modificar, cambio algoritmo
